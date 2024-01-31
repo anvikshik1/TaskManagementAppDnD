@@ -6,8 +6,8 @@ A simple task management application built with React.js, featuring a drag-and-d
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/anvikshik1/MyFavMovies.git`
-2. Navigate to the project directory: `cd MyFavMovies`
+1. Clone the repository: `git clone https://github.com/anvikshik1/TaskManagementAppDnD.git`
+2. Navigate to the project directory: `cd TaskManagementAppDnD`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 
